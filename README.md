@@ -21,6 +21,6 @@ _You **can** combine them_
    1. Item 3b
 
 
-![GitHub Logo](/images/logo.png)
+![Cat](https://i1.wp.com/ideasfornames.com/wp-content/uploads/2019/11/shutterstock_517303600.jpg?w=1000&ssl=1)
 Format: ![Alt Text](url)
 
